@@ -1,0 +1,7 @@
+darkdetect==0.7.1
+pyqtdarktheme==2.1.0
+PySide6==6.6.1
+PySide6-Addons==6.6.1
+PySide6-Essentials==6.6.1
+shiboken6==6.6.1
+typing==3.7.4.3
